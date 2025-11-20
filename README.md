@@ -16,5 +16,3 @@ This project includes a hero section, menu cards, animations, and a mobile navig
 - **AOS Animation (if used)**
 - **FontAwesome / Icons**
 - **Responsive Design Techniques**
-
-## 📂 Folder Structure
